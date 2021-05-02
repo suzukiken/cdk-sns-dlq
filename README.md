@@ -6,4 +6,4 @@ To deploy SNS with Dead Letter Queue.
 * `cdk deploy CdksnsDlqLambdaStack`
 * `cdk deploy CdksnsDlqSqsStack`
 
-[description](https://figmentresearch.com/aws/cdksns-dlq)
+[description](https://note.figmentresearch.com/aws/cdksns-dlq)
